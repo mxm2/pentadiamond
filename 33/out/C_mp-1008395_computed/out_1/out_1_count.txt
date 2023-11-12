@@ -1,0 +1,780 @@
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         1      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         1       0.00   1(1) 1(4)  
+empty site number      8      1190      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         4       0.00   1(2) 1(4)  
+empty site number     12      1173      24.21   1(2)  
+empty site number     13         3       1.59   1(3) 1(4)  
+empty site number     14      1358      25.79   1(3)  
+empty site number     15      1359      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      1098     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      1131     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       171      -1.59   1(1) 1(2)  
+grown site number     22      1040     -24.21   1(1) 1(3) 1(4)  
+grown site number     23        28       0.00   1(1) 1(3)  
+grown site number     24        36       0.00   1(1) 1(4)  
+grown site number     25         8      24.21   1(1)  
+grown site number     26      1063     -24.21   1(2) 1(3) 1(4)  
+grown site number     27        27       0.00   1(2) 1(3)  
+grown site number     28        24       0.00   1(2) 1(4)  
+grown site number     29        12      24.21   1(2)  
+grown site number     30        64       1.59   1(3) 1(4)  
+grown site number     31         1      25.79   1(3)  
+grown site number     32         1      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34     45296     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         0      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      2005      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         3       0.00   1(2) 1(4)  
+empty site number     12      1936      24.21   1(2)  
+empty site number     13         0       1.59   1(3) 1(4)  
+empty site number     14      2190      25.79   1(3)  
+empty site number     15      2187      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      1754     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      1828     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       269      -1.59   1(1) 1(2)  
+grown site number     22      1727     -24.21   1(1) 1(3) 1(4)  
+grown site number     23        48       0.00   1(1) 1(3)  
+grown site number     24        44       0.00   1(1) 1(4)  
+grown site number     25        19      24.21   1(1)  
+grown site number     26      1798     -24.21   1(2) 1(3) 1(4)  
+grown site number     27        35       0.00   1(2) 1(3)  
+grown site number     28        51       0.00   1(2) 1(4)  
+grown site number     29        20      24.21   1(2)  
+grown site number     30        97       1.59   1(3) 1(4)  
+grown site number     31         1      25.79   1(3)  
+grown site number     32         3      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34     92306     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         1      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      2518      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      2484      24.21   1(2)  
+empty site number     13         0       1.59   1(3) 1(4)  
+empty site number     14      2820      25.79   1(3)  
+empty site number     15      2826      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      2458     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      2472     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       182      -1.59   1(1) 1(2)  
+grown site number     22      2196     -24.21   1(1) 1(3) 1(4)  
+grown site number     23        61       0.00   1(1) 1(3)  
+grown site number     24        62       0.00   1(1) 1(4)  
+grown site number     25        30      24.21   1(1)  
+grown site number     26      2237     -24.21   1(2) 1(3) 1(4)  
+grown site number     27        66       0.00   1(2) 1(3)  
+grown site number     28        58       0.00   1(2) 1(4)  
+grown site number     29        22      24.21   1(2)  
+grown site number     30       135       1.59   1(3) 1(4)  
+grown site number     31         1      25.79   1(3)  
+grown site number     32         0      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    140020     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         0      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         1       0.00   1(1) 1(4)  
+empty site number      8      3191      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         2       0.00   1(2) 1(4)  
+empty site number     12      3188      24.21   1(2)  
+empty site number     13         2       1.59   1(3) 1(4)  
+empty site number     14      3350      25.79   1(3)  
+empty site number     15      3339      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      2937     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      2819     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       288      -1.59   1(1) 1(2)  
+grown site number     22      2837     -24.21   1(1) 1(3) 1(4)  
+grown site number     23        64       0.00   1(1) 1(3)  
+grown site number     24        72       0.00   1(1) 1(4)  
+grown site number     25        16      24.21   1(1)  
+grown site number     26      2815     -24.21   1(2) 1(3) 1(4)  
+grown site number     27        90       0.00   1(2) 1(3)  
+grown site number     28        68       0.00   1(2) 1(4)  
+grown site number     29        18      24.21   1(2)  
+grown site number     30       199       1.59   1(3) 1(4)  
+grown site number     31         1      25.79   1(3)  
+grown site number     32         1      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    187775     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         1      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         3       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      3844      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         3       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      3834      24.21   1(2)  
+empty site number     13        10       1.59   1(3) 1(4)  
+empty site number     14      3907      25.79   1(3)  
+empty site number     15      3881      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      3290     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      3318     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       376      -1.59   1(1) 1(2)  
+grown site number     22      3363     -24.21   1(1) 1(3) 1(4)  
+grown site number     23        73       0.00   1(1) 1(3)  
+grown site number     24        76       0.00   1(1) 1(4)  
+grown site number     25        34      24.21   1(1)  
+grown site number     26      3357     -24.21   1(2) 1(3) 1(4)  
+grown site number     27        89       0.00   1(2) 1(3)  
+grown site number     28        84       0.00   1(2) 1(4)  
+grown site number     29        26      24.21   1(2)  
+grown site number     30       280       1.59   1(3) 1(4)  
+grown site number     31         9      25.79   1(3)  
+grown site number     32         3      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    235622     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         3      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         5       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      4218      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         2       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      4199      24.21   1(2)  
+empty site number     13         9       1.59   1(3) 1(4)  
+empty site number     14      4389      25.79   1(3)  
+empty site number     15      4444      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      3885     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      3774     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       342      -1.59   1(1) 1(2)  
+grown site number     22      3758     -24.21   1(1) 1(3) 1(4)  
+grown site number     23        98       0.00   1(1) 1(3)  
+grown site number     24        87       0.00   1(1) 1(4)  
+grown site number     25        42      24.21   1(1)  
+grown site number     26      3794     -24.21   1(2) 1(3) 1(4)  
+grown site number     27        97       0.00   1(2) 1(3)  
+grown site number     28        89       0.00   1(2) 1(4)  
+grown site number     29        27      24.21   1(2)  
+grown site number     30       213       1.59   1(3) 1(4)  
+grown site number     31         0      25.79   1(3)  
+grown site number     32         6      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    283788     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         0      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         1       0.00   1(1) 1(4)  
+empty site number      8      4754      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      4737      24.21   1(2)  
+empty site number     13         0       1.59   1(3) 1(4)  
+empty site number     14      4808      25.79   1(3)  
+empty site number     15      4839      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      4239     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      4217     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       338      -1.59   1(1) 1(2)  
+grown site number     22      4180     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       101       0.00   1(1) 1(3)  
+grown site number     24       101       0.00   1(1) 1(4)  
+grown site number     25        34      24.21   1(1)  
+grown site number     26      4230     -24.21   1(2) 1(3) 1(4)  
+grown site number     27        86       0.00   1(2) 1(3)  
+grown site number     28        82       0.00   1(2) 1(4)  
+grown site number     29        36      24.21   1(2)  
+grown site number     30       315       1.59   1(3) 1(4)  
+grown site number     31         2      25.79   1(3)  
+grown site number     32         4      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    332035     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         0      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      5064      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      5096      24.21   1(2)  
+empty site number     13         0       1.59   1(3) 1(4)  
+empty site number     14      5233      25.79   1(3)  
+empty site number     15      5221      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      4798     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      4752     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       157      -1.59   1(1) 1(2)  
+grown site number     22      4521     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       105       0.00   1(1) 1(3)  
+grown site number     24       111       0.00   1(1) 1(4)  
+grown site number     25        48      24.21   1(1)  
+grown site number     26      4513     -24.21   1(2) 1(3) 1(4)  
+grown site number     27        97       0.00   1(2) 1(3)  
+grown site number     28       106       0.00   1(2) 1(4)  
+grown site number     29        37      24.21   1(2)  
+grown site number     30       310       1.59   1(3) 1(4)  
+grown site number     31         1      25.79   1(3)  
+grown site number     32         0      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    380444     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         1      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         1       0.00   1(1) 1(4)  
+empty site number      8      5687      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      5734      24.21   1(2)  
+empty site number     13         0       1.59   1(3) 1(4)  
+empty site number     14      5717      25.79   1(3)  
+empty site number     15      5702      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      4999     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      4918     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       435      -1.59   1(1) 1(2)  
+grown site number     22      5064     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       112       0.00   1(1) 1(3)  
+grown site number     24       101       0.00   1(1) 1(4)  
+grown site number     25        52      24.21   1(1)  
+grown site number     26      5007     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       119       0.00   1(2) 1(3)  
+grown site number     28       128       0.00   1(2) 1(4)  
+grown site number     29        29      24.21   1(2)  
+grown site number     30       395       1.59   1(3) 1(4)  
+grown site number     31         5      25.79   1(3)  
+grown site number     32         6      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    428630     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         0      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         2       0.00   1(1) 1(4)  
+empty site number      8      5903      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         1       0.00   1(2) 1(3)  
+empty site number     11         2       0.00   1(2) 1(4)  
+empty site number     12      5916      24.21   1(2)  
+empty site number     13         3       1.59   1(3) 1(4)  
+empty site number     14      6063      25.79   1(3)  
+empty site number     15      6130      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      5477     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      5656     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       216      -1.59   1(1) 1(2)  
+grown site number     22      5330     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       109       0.00   1(1) 1(3)  
+grown site number     24       120       0.00   1(1) 1(4)  
+grown site number     25        42      24.21   1(1)  
+grown site number     26      5309     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       107       0.00   1(2) 1(3)  
+grown site number     28       126       0.00   1(2) 1(4)  
+grown site number     29        45      24.21   1(2)  
+grown site number     30       315       1.59   1(3) 1(4)  
+grown site number     31         3      25.79   1(3)  
+grown site number     32         0      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    477145     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         1      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      6349      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      6397      24.21   1(2)  
+empty site number     13         0       1.59   1(3) 1(4)  
+empty site number     14      6505      25.79   1(3)  
+empty site number     15      6481      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      6019     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      5905     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       170      -1.59   1(1) 1(2)  
+grown site number     22      5642     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       129       0.00   1(1) 1(3)  
+grown site number     24       134       0.00   1(1) 1(4)  
+grown site number     25        51      24.21   1(1)  
+grown site number     26      5595     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       128       0.00   1(2) 1(3)  
+grown site number     28       144       0.00   1(2) 1(4)  
+grown site number     29        41      24.21   1(2)  
+grown site number     30       439       1.59   1(3) 1(4)  
+grown site number     31         1      25.79   1(3)  
+grown site number     32         2      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    525600     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         0      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         2       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      7055      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         1       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      7008      24.21   1(2)  
+empty site number     13         0       1.59   1(3) 1(4)  
+empty site number     14      6908      25.79   1(3)  
+empty site number     15      6819      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      6181     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      5999     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       395      -1.59   1(1) 1(2)  
+grown site number     22      6142     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       140       0.00   1(1) 1(3)  
+grown site number     24       120       0.00   1(1) 1(4)  
+grown site number     25        47      24.21   1(1)  
+grown site number     26      6152     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       150       0.00   1(2) 1(3)  
+grown site number     28       143       0.00   1(2) 1(4)  
+grown site number     29        52      24.21   1(2)  
+grown site number     30       551       1.59   1(3) 1(4)  
+grown site number     31         6      25.79   1(3)  
+grown site number     32         3      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    573919     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         0      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         1       0.00   1(1) 1(3)  
+empty site number      7         4       0.00   1(1) 1(4)  
+empty site number      8      7635      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         1       0.00   1(2) 1(4)  
+empty site number     12      7607      24.21   1(2)  
+empty site number     13         5       1.59   1(3) 1(4)  
+empty site number     14      7185      25.79   1(3)  
+empty site number     15      7281      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      6273     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      6221     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       579      -1.59   1(1) 1(2)  
+grown site number     22      6616     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       154       0.00   1(1) 1(3)  
+grown site number     24       142       0.00   1(1) 1(4)  
+grown site number     25        69      24.21   1(1)  
+grown site number     26      6693     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       110       0.00   1(2) 1(3)  
+grown site number     28       147       0.00   1(2) 1(4)  
+grown site number     29        63      24.21   1(2)  
+grown site number     30       614       1.59   1(3) 1(4)  
+grown site number     31         9      25.79   1(3)  
+grown site number     32         4      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    622306     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         1      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      7726      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      7664      24.21   1(2)  
+empty site number     13         4       1.59   1(3) 1(4)  
+empty site number     14      7673      25.79   1(3)  
+empty site number     15      7597      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      6824     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      6836     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       386      -1.59   1(1) 1(2)  
+grown site number     22      6790     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       141       0.00   1(1) 1(3)  
+grown site number     24       152       0.00   1(1) 1(4)  
+grown site number     25        71      24.21   1(1)  
+grown site number     26      6865     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       151       0.00   1(2) 1(3)  
+grown site number     28       147       0.00   1(2) 1(4)  
+grown site number     29        53      24.21   1(2)  
+grown site number     30       504       1.59   1(3) 1(4)  
+grown site number     31         5      25.79   1(3)  
+grown site number     32         2      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    671073     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         2      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         8       0.00   1(1) 1(4)  
+empty site number      8      8321      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         4       0.00   1(2) 1(4)  
+empty site number     12      8279      24.21   1(2)  
+empty site number     13        18       1.59   1(3) 1(4)  
+empty site number     14      7909      25.79   1(3)  
+empty site number     15      7979      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      6814     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      6969     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       628      -1.59   1(1) 1(2)  
+grown site number     22      7253     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       188       0.00   1(1) 1(3)  
+grown site number     24       161       0.00   1(1) 1(4)  
+grown site number     25        70      24.21   1(1)  
+grown site number     26      7373     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       129       0.00   1(2) 1(3)  
+grown site number     28       164       0.00   1(2) 1(4)  
+grown site number     29        52      24.21   1(2)  
+grown site number     30       602       1.59   1(3) 1(4)  
+grown site number     31         6      25.79   1(3)  
+grown site number     32         5      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    719586     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         0      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         1       0.00   1(1) 1(4)  
+empty site number      8      8627      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         2       0.00   1(2) 1(4)  
+empty site number     12      8558      24.21   1(2)  
+empty site number     13         1       1.59   1(3) 1(4)  
+empty site number     14      8272      25.79   1(3)  
+empty site number     15      8389      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      7124     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      7478     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       576      -1.59   1(1) 1(2)  
+grown site number     22      7583     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       161       0.00   1(1) 1(3)  
+grown site number     24       171       0.00   1(1) 1(4)  
+grown site number     25        73      24.21   1(1)  
+grown site number     26      7682     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       162       0.00   1(2) 1(3)  
+grown site number     28       162       0.00   1(2) 1(4)  
+grown site number     29        50      24.21   1(2)  
+grown site number     30       562       1.59   1(3) 1(4)  
+grown site number     31         7      25.79   1(3)  
+grown site number     32         3      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    768206     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         1      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      8993      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      8907      24.21   1(2)  
+empty site number     13         0       1.59   1(3) 1(4)  
+empty site number     14      8594      25.79   1(3)  
+empty site number     15      8632      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      7557     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      7496     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       615      -1.59   1(1) 1(2)  
+grown site number     22      7931     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       159       0.00   1(1) 1(3)  
+grown site number     24       169       0.00   1(1) 1(4)  
+grown site number     25        74      24.21   1(1)  
+grown site number     26      8021     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       164       0.00   1(2) 1(3)  
+grown site number     28       177       0.00   1(2) 1(4)  
+grown site number     29        57      24.21   1(2)  
+grown site number     30       563       1.59   1(3) 1(4)  
+grown site number     31         6      25.79   1(3)  
+grown site number     32         6      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    817005     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         3      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         4       0.00   1(1) 1(3)  
+empty site number      7         3       0.00   1(1) 1(4)  
+empty site number      8      9518      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         3       0.00   1(2) 1(3)  
+empty site number     11         1       0.00   1(2) 1(4)  
+empty site number     12      9479      24.21   1(2)  
+empty site number     13        20       1.59   1(3) 1(4)  
+empty site number     14      8895      25.79   1(3)  
+empty site number     15      8902      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      7783     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      7718     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       660      -1.59   1(1) 1(2)  
+grown site number     22      8281     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       202       0.00   1(1) 1(3)  
+grown site number     24       173       0.00   1(1) 1(4)  
+grown site number     25        64      24.21   1(1)  
+grown site number     26      8327     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       191       0.00   1(2) 1(3)  
+grown site number     28       168       0.00   1(2) 1(4)  
+grown site number     29        76      24.21   1(2)  
+grown site number     30       753       1.59   1(3) 1(4)  
+grown site number     31         8      25.79   1(3)  
+grown site number     32         5      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    865591     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         1      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         0       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      9920      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         0       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      9880      24.21   1(2)  
+empty site number     13         0       1.59   1(3) 1(4)  
+empty site number     14      9268      25.79   1(3)  
+empty site number     15      9188      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      8030     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      8152     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       604      -1.59   1(1) 1(2)  
+grown site number     22      8585     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       201       0.00   1(1) 1(3)  
+grown site number     24       169       0.00   1(1) 1(4)  
+grown site number     25        81      24.21   1(1)  
+grown site number     26      8629     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       179       0.00   1(2) 1(3)  
+grown site number     28       189       0.00   1(2) 1(4)  
+grown site number     29        79      24.21   1(2)  
+grown site number     30       837       1.59   1(3) 1(4)  
+grown site number     31         4      25.79   1(3)  
+grown site number     32         4      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    914257     -50.00
+ 
+        -1
+C            1
+empty site number      1         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+empty site number      2         0     -25.79   1(1) 1(2) 1(3)  
+empty site number      3         0     -25.79   1(1) 1(2) 1(4)  
+empty site number      4         0      -1.59   1(1) 1(2)  
+empty site number      5         0     -24.21   1(1) 1(3) 1(4)  
+empty site number      6         1       0.00   1(1) 1(3)  
+empty site number      7         0       0.00   1(1) 1(4)  
+empty site number      8      9905      24.21   1(1)  
+empty site number      9         0     -24.21   1(2) 1(3) 1(4)  
+empty site number     10         1       0.00   1(2) 1(3)  
+empty site number     11         0       0.00   1(2) 1(4)  
+empty site number     12      9799      24.21   1(2)  
+empty site number     13         5       1.59   1(3) 1(4)  
+empty site number     14      9587      25.79   1(3)  
+empty site number     15      9581      25.79   1(4)  
+empty site number     16         0      50.00    
+ bulk empty site      17         0     -50.00
+ 
+C            1
+grown site number     18         0     -50.00   1(1) 1(2) 1(3) 1(4)  
+grown site number     19      8659     -25.79   1(1) 1(2) 1(3)  
+grown site number     20      8716     -25.79   1(1) 1(2) 1(4)  
+grown site number     21       336      -1.59   1(1) 1(2)  
+grown site number     22      8650     -24.21   1(1) 1(3) 1(4)  
+grown site number     23       197       0.00   1(1) 1(3)  
+grown site number     24       164       0.00   1(1) 1(4)  
+grown site number     25        90      24.21   1(1)  
+grown site number     26      8704     -24.21   1(2) 1(3) 1(4)  
+grown site number     27       202       0.00   1(2) 1(3)  
+grown site number     28       214       0.00   1(2) 1(4)  
+grown site number     29        87      24.21   1(2)  
+grown site number     30       697       1.59   1(3) 1(4)  
+grown site number     31         1      25.79   1(3)  
+grown site number     32         1      25.79   1(4)  
+grown site number     33         0      50.00    
+ bulk grown site      34    963282     -50.00
+ 
+        -1
