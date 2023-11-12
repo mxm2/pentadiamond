@@ -1,0 +1,820 @@
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3         8      -4.00   4(1)  
+empty site number      4       212       0.00   3(1)  
+empty site number      5       745       4.00   2(1)  
+empty site number      6      2752       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11         7      -4.00   4(1)  
+empty site number     12       224       0.00   3(1)  
+empty site number     13       717       4.00   2(1)  
+empty site number     14      2788       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18      2556      -8.00   5(1)  
+grown site number     19       617      -4.00   4(1)  
+grown site number     20       267       0.00   3(1)  
+grown site number     21        49       4.00   2(1)  
+grown site number     22        27       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24     21485     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26      2574      -8.00   5(1)  
+grown site number     27       627      -4.00   4(1)  
+grown site number     28       238       0.00   3(1)  
+grown site number     29        57       4.00   2(1)  
+grown site number     30        28       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32     21475     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3         7      -4.00   4(1)  
+empty site number      4       392       0.00   3(1)  
+empty site number      5      1184       4.00   2(1)  
+empty site number      6      4359       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        12      -4.00   4(1)  
+empty site number     12       386       0.00   3(1)  
+empty site number     13      1138       4.00   2(1)  
+empty site number     14      4377       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18      4178      -8.00   5(1)  
+grown site number     19       928      -4.00   4(1)  
+grown site number     20       425       0.00   3(1)  
+grown site number     21        90       4.00   2(1)  
+grown site number     22        38       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24     44335     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26      4189      -8.00   5(1)  
+grown site number     27       940      -4.00   4(1)  
+grown site number     28       394       0.00   3(1)  
+grown site number     29       100       4.00   2(1)  
+grown site number     30        56       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32     44327     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        11      -4.00   4(1)  
+empty site number      4       512       0.00   3(1)  
+empty site number      5      1599       4.00   2(1)  
+empty site number      6      5649       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        11      -4.00   4(1)  
+empty site number     12       479       0.00   3(1)  
+empty site number     13      1592       4.00   2(1)  
+empty site number     14      5666       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18      5486      -8.00   5(1)  
+grown site number     19      1238      -4.00   4(1)  
+grown site number     20       518       0.00   3(1)  
+grown site number     21       115       4.00   2(1)  
+grown site number     22        71       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24     67564     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26      5531      -8.00   5(1)  
+grown site number     27      1200      -4.00   4(1)  
+grown site number     28       549       0.00   3(1)  
+grown site number     29       126       4.00   2(1)  
+grown site number     30        69       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32     67533     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        18      -4.00   4(1)  
+empty site number      4       606       0.00   3(1)  
+empty site number      5      2025       4.00   2(1)  
+empty site number      6      6818       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        18      -4.00   4(1)  
+empty site number     12       602       0.00   3(1)  
+empty site number     13      2072       4.00   2(1)  
+empty site number     14      6748       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18      6717      -8.00   5(1)  
+grown site number     19      1484      -4.00   4(1)  
+grown site number     20       664       0.00   3(1)  
+grown site number     21       177       4.00   2(1)  
+grown site number     22        77       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24     90882     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26      6683      -8.00   5(1)  
+grown site number     27      1504      -4.00   4(1)  
+grown site number     28       681       0.00   3(1)  
+grown site number     29       146       4.00   2(1)  
+grown site number     30        88       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32     90897     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        15      -4.00   4(1)  
+empty site number      4       693       0.00   3(1)  
+empty site number      5      2261       4.00   2(1)  
+empty site number      6      7972       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         1      -8.00   5(1)  
+empty site number     11        16      -4.00   4(1)  
+empty site number     12       690       0.00   3(1)  
+empty site number     13      2270       4.00   2(1)  
+empty site number     14      8002       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18      7867      -8.00   5(1)  
+grown site number     19      1741      -4.00   4(1)  
+grown site number     20       715       0.00   3(1)  
+grown site number     21       193       4.00   2(1)  
+grown site number     22        83       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    114405     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26      7909      -8.00   5(1)  
+grown site number     27      1679      -4.00   4(1)  
+grown site number     28       751       0.00   3(1)  
+grown site number     29       182       4.00   2(1)  
+grown site number     30        77       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    114398     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        17      -4.00   4(1)  
+empty site number      4       783       0.00   3(1)  
+empty site number      5      2522       4.00   2(1)  
+empty site number      6      9007       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        16      -4.00   4(1)  
+empty site number     12       778       0.00   3(1)  
+empty site number     13      2609       4.00   2(1)  
+empty site number     14      9044       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18      8966      -8.00   5(1)  
+grown site number     19      1874      -4.00   4(1)  
+grown site number     20       844       0.00   3(1)  
+grown site number     21       201       4.00   2(1)  
+grown site number     22       122       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    138009     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26      8994      -8.00   5(1)  
+grown site number     27      1891      -4.00   4(1)  
+grown site number     28       808       0.00   3(1)  
+grown site number     29       197       4.00   2(1)  
+grown site number     30        96       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    137998     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        28      -4.00   4(1)  
+empty site number      4       887       0.00   3(1)  
+empty site number      5      2835       4.00   2(1)  
+empty site number      6     10055       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        17      -4.00   4(1)  
+empty site number     12       823       0.00   3(1)  
+empty site number     13      2824       4.00   2(1)  
+empty site number     14     10001       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     10004      -8.00   5(1)  
+grown site number     19      2088      -4.00   4(1)  
+grown site number     20       887       0.00   3(1)  
+grown site number     21       210       4.00   2(1)  
+grown site number     22       101       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    161684     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26      9949      -8.00   5(1)  
+grown site number     27      2133      -4.00   4(1)  
+grown site number     28       943       0.00   3(1)  
+grown site number     29       226       4.00   2(1)  
+grown site number     30       110       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    161665     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        19      -4.00   4(1)  
+empty site number      4       954       0.00   3(1)  
+empty site number      5      3096       4.00   2(1)  
+empty site number      6     10886       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        21      -4.00   4(1)  
+empty site number     12       969       0.00   3(1)  
+empty site number     13      3199       4.00   2(1)  
+empty site number     14     10843       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     10854      -8.00   5(1)  
+grown site number     19      2314      -4.00   4(1)  
+grown site number     20      1055       0.00   3(1)  
+grown site number     21       245       4.00   2(1)  
+grown site number     22       121       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    185429     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     10859      -8.00   5(1)  
+grown site number     27      2334      -4.00   4(1)  
+grown site number     28       978       0.00   3(1)  
+grown site number     29       245       4.00   2(1)  
+grown site number     30       115       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    185451     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        31      -4.00   4(1)  
+empty site number      4      1051       0.00   3(1)  
+empty site number      5      3248       4.00   2(1)  
+empty site number      6     11876       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        25      -4.00   4(1)  
+empty site number     12      1031       0.00   3(1)  
+empty site number     13      3302       4.00   2(1)  
+empty site number     14     11864       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     11881      -8.00   5(1)  
+grown site number     19      2394      -4.00   4(1)  
+grown site number     20      1098       0.00   3(1)  
+grown site number     21       272       4.00   2(1)  
+grown site number     22       122       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    209234     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     11877      -8.00   5(1)  
+grown site number     27      2428      -4.00   4(1)  
+grown site number     28      1084       0.00   3(1)  
+grown site number     29       256       4.00   2(1)  
+grown site number     30       128       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    209226     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         1      -8.00   5(1)  
+empty site number      3        41      -4.00   4(1)  
+empty site number      4      1099       0.00   3(1)  
+empty site number      5      3474       4.00   2(1)  
+empty site number      6     12749       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        26      -4.00   4(1)  
+empty site number     12      1111       0.00   3(1)  
+empty site number     13      3610       4.00   2(1)  
+empty site number     14     12710       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     12791      -8.00   5(1)  
+grown site number     19      2570      -4.00   4(1)  
+grown site number     20      1143       0.00   3(1)  
+grown site number     21       313       4.00   2(1)  
+grown site number     22       151       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    233049     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     12749      -8.00   5(1)  
+grown site number     27      2610      -4.00   4(1)  
+grown site number     28      1144       0.00   3(1)  
+grown site number     29       283       4.00   2(1)  
+grown site number     30       126       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    233071     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         1      -8.00   5(1)  
+empty site number      3        33      -4.00   4(1)  
+empty site number      4      1140       0.00   3(1)  
+empty site number      5      3846       4.00   2(1)  
+empty site number      6     13493       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        27      -4.00   4(1)  
+empty site number     12      1230       0.00   3(1)  
+empty site number     13      3811       4.00   2(1)  
+empty site number     14     13514       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     13621      -8.00   5(1)  
+grown site number     19      2735      -4.00   4(1)  
+grown site number     20      1295       0.00   3(1)  
+grown site number     21       302       4.00   2(1)  
+grown site number     22       150       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    256913     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     13616      -8.00   5(1)  
+grown site number     27      2710      -4.00   4(1)  
+grown site number     28      1288       0.00   3(1)  
+grown site number     29       283       4.00   2(1)  
+grown site number     30       142       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    256945     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        29      -4.00   4(1)  
+empty site number      4      1206       0.00   3(1)  
+empty site number      5      4068       4.00   2(1)  
+empty site number      6     14380       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         1      -8.00   5(1)  
+empty site number     11        29      -4.00   4(1)  
+empty site number     12      1235       0.00   3(1)  
+empty site number     13      4024       4.00   2(1)  
+empty site number     14     14388       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     14463      -8.00   5(1)  
+grown site number     19      2985      -4.00   4(1)  
+grown site number     20      1288       0.00   3(1)  
+grown site number     21       315       4.00   2(1)  
+grown site number     22       141       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    280809     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     14473      -8.00   5(1)  
+grown site number     27      2925      -4.00   4(1)  
+grown site number     28      1338       0.00   3(1)  
+grown site number     29       302       4.00   2(1)  
+grown site number     30       141       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    280820     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        42      -4.00   4(1)  
+empty site number      4      1245       0.00   3(1)  
+empty site number      5      4271       4.00   2(1)  
+empty site number      6     15250       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        29      -4.00   4(1)  
+empty site number     12      1254       0.00   3(1)  
+empty site number     13      4274       4.00   2(1)  
+empty site number     14     15257       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     15376      -8.00   5(1)  
+grown site number     19      3046      -4.00   4(1)  
+grown site number     20      1362       0.00   3(1)  
+grown site number     21       321       4.00   2(1)  
+grown site number     22       169       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    304725     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     15414      -8.00   5(1)  
+grown site number     27      3034      -4.00   4(1)  
+grown site number     28      1381       0.00   3(1)  
+grown site number     29       295       4.00   2(1)  
+grown site number     30       178       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    304699     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        40      -4.00   4(1)  
+empty site number      4      1370       0.00   3(1)  
+empty site number      5      4443       4.00   2(1)  
+empty site number      6     15996       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        30      -4.00   4(1)  
+empty site number     12      1355       0.00   3(1)  
+empty site number     13      4487       4.00   2(1)  
+empty site number     14     15993       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     16202      -8.00   5(1)  
+grown site number     19      3185      -4.00   4(1)  
+grown site number     20      1388       0.00   3(1)  
+grown site number     21       369       4.00   2(1)  
+grown site number     22       188       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    328668     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     16177      -8.00   5(1)  
+grown site number     27      3190      -4.00   4(1)  
+grown site number     28      1458       0.00   3(1)  
+grown site number     29       349       4.00   2(1)  
+grown site number     30       165       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    328661     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         1      -8.00   5(1)  
+empty site number      3        34      -4.00   4(1)  
+empty site number      4      1358       0.00   3(1)  
+empty site number      5      4610       4.00   2(1)  
+empty site number      6     16849       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        39      -4.00   4(1)  
+empty site number     12      1480       0.00   3(1)  
+empty site number     13      4614       4.00   2(1)  
+empty site number     14     16844       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     17015      -8.00   5(1)  
+grown site number     19      3337      -4.00   4(1)  
+grown site number     20      1505       0.00   3(1)  
+grown site number     21       406       4.00   2(1)  
+grown site number     22       168       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    352601     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     16986      -8.00   5(1)  
+grown site number     27      3312      -4.00   4(1)  
+grown site number     28      1479       0.00   3(1)  
+grown site number     29       358       4.00   2(1)  
+grown site number     30       161       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    352672     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        41      -4.00   4(1)  
+empty site number      4      1496       0.00   3(1)  
+empty site number      5      4977       4.00   2(1)  
+empty site number      6     17395       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        37      -4.00   4(1)  
+empty site number     12      1535       0.00   3(1)  
+empty site number     13      4890       4.00   2(1)  
+empty site number     14     17432       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     17612      -8.00   5(1)  
+grown site number     19      3585      -4.00   4(1)  
+grown site number     20      1587       0.00   3(1)  
+grown site number     21       383       4.00   2(1)  
+grown site number     22       178       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    376652     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     17632      -8.00   5(1)  
+grown site number     27      3522      -4.00   4(1)  
+grown site number     28      1649       0.00   3(1)  
+grown site number     29       357       4.00   2(1)  
+grown site number     30       190       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    376653     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        50      -4.00   4(1)  
+empty site number      4      1563       0.00   3(1)  
+empty site number      5      5222       4.00   2(1)  
+empty site number      6     18073       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         1      -8.00   5(1)  
+empty site number     11        42      -4.00   4(1)  
+empty site number     12      1573       0.00   3(1)  
+empty site number     13      5159       4.00   2(1)  
+empty site number     14     18064       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     18409      -8.00   5(1)  
+grown site number     19      3623      -4.00   4(1)  
+grown site number     20      1624       0.00   3(1)  
+grown site number     21       428       4.00   2(1)  
+grown site number     22       207       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    400698     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     18398      -8.00   5(1)  
+grown site number     27      3632      -4.00   4(1)  
+grown site number     28      1661       0.00   3(1)  
+grown site number     29       409       4.00   2(1)  
+grown site number     30       225       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    400686     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        46      -4.00   4(1)  
+empty site number      4      1622       0.00   3(1)  
+empty site number      5      5241       4.00   2(1)  
+empty site number      6     19017       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        45      -4.00   4(1)  
+empty site number     12      1561       0.00   3(1)  
+empty site number     13      5282       4.00   2(1)  
+empty site number     14     18990       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     19367      -8.00   5(1)  
+grown site number     19      3658      -4.00   4(1)  
+grown site number     20      1663       0.00   3(1)  
+grown site number     21       415       4.00   2(1)  
+grown site number     22       217       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    424669     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     19306      -8.00   5(1)  
+grown site number     27      3707      -4.00   4(1)  
+grown site number     28      1702       0.00   3(1)  
+grown site number     29       422       4.00   2(1)  
+grown site number     30       207       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    424667     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         1      -8.00   5(1)  
+empty site number      3        51      -4.00   4(1)  
+empty site number      4      1666       0.00   3(1)  
+empty site number      5      5344       4.00   2(1)  
+empty site number      6     19774       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        51      -4.00   4(1)  
+empty site number     12      1622       0.00   3(1)  
+empty site number     13      5487       4.00   2(1)  
+empty site number     14     19697       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     20048      -8.00   5(1)  
+grown site number     19      3843      -4.00   4(1)  
+grown site number     20      1774       0.00   3(1)  
+grown site number     21       410       4.00   2(1)  
+grown site number     22       209       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    448722     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     19949      -8.00   5(1)  
+grown site number     27      3962      -4.00   4(1)  
+grown site number     28      1722       0.00   3(1)  
+grown site number     29       415       4.00   2(1)  
+grown site number     30       194       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    448752     -12.00
+ 
+        -1
+CO3          1
+empty site number      1         0     -12.00   6(1)  
+empty site number      2         0      -8.00   5(1)  
+empty site number      3        47      -4.00   4(1)  
+empty site number      4      1775       0.00   3(1)  
+empty site number      5      5699       4.00   2(1)  
+empty site number      6     20272       8.00   1(1)  
+empty site number      7         0      12.00    
+ bulk empty site       8         0     -12.00
+ 
+Ca           3
+empty site number      9         0     -12.00   6(1)  
+empty site number     10         0      -8.00   5(1)  
+empty site number     11        43      -4.00   4(1)  
+empty site number     12      1735       0.00   3(1)  
+empty site number     13      5667       4.00   2(1)  
+empty site number     14     20304       8.00   1(1)  
+empty site number     15         0      12.00    
+ bulk empty site      16         0     -12.00
+ 
+CO3          1
+grown site number     17         0     -12.00   6(1)  
+grown site number     18     20596      -8.00   5(1)  
+grown site number     19      4088      -4.00   4(1)  
+grown site number     20      1793       0.00   3(1)  
+grown site number     21       451       4.00   2(1)  
+grown site number     22       212       8.00   1(1)  
+grown site number     23         0      12.00    
+ bulk grown site      24    472846     -12.00
+ 
+Ca           3
+grown site number     25         0     -12.00   6(1)  
+grown site number     26     20643      -8.00   5(1)  
+grown site number     27      4021      -4.00   4(1)  
+grown site number     28      1873       0.00   3(1)  
+grown site number     29       446       4.00   2(1)  
+grown site number     30       219       8.00   1(1)  
+grown site number     31         0      12.00    
+ bulk grown site      32    472812     -12.00
+ 
+        -1
