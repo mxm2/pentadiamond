@@ -1,0 +1,105 @@
+CrystalGrower code version:                       CrystalGrower_X_1_6_1.f90
+Directory for file storage:                       C:/Users/ars21/Desktop/pentadiamond/22/out/20220709_221415/out_1/
+Filename root:                                    out_1
+Checkpoint load enabled:                          no
+Checkpoint load file path:                        N/A
+Checkpoint save enabled:                          yes
+File containing TOPOS input?:                     C:/Users/ars21/Desktop/pentadiamond/22/1_c.txt
+File name for output visualisation data?:         C:/Users/ars21/Desktop/pentadiamond/22/out/20220709_221415/out_1/out_1_visualiser.vis
+Filetype, old, new, new_mol:                      new_mol
+normal, ordered or growth modifier:               normal
+Do you want to add screw dislocations?:           no
+Checking sweeps, 1 normal, 2 clear defects:       1
+Method for determining combinations:              2
+Is this a tile or net crystal?:                   net
+Do you want molecules grouped?:                   yes
+Different weighting for multiple bonds?:          no
+
+    net.txt (1)
+    1
+    2
+    3
+     42.692
+     33.769
+     23.540
+    end net.txt (1)
+
+
+    net.txt (2)
+    1
+    2
+    3
+     42.692
+     33.769
+     23.540
+    end net.txt (2)
+
+
+    net.txt (3)
+    1
+    2
+    3
+     42.692
+     33.769
+     23.540
+    end net.txt (3)
+
+
+    net.txt (4)
+    1
+    2
+    3
+     42.692
+     33.769
+     23.540
+    end net.txt (4)
+
+
+    net.txt (5)
+    1
+    2
+    3
+    4
+     35.890
+     23.051
+     23.051
+     18.008
+    end net.txt (5)
+
+
+    net.txt (6)
+    1
+    2
+    3
+    4
+     35.890
+     23.051
+     23.051
+     18.008
+    end net.txt (6)
+
+
+    net.txt (7)
+    1
+    2
+    3
+     43.367
+     28.317
+     28.317
+    end net.txt (7)
+
+
+    net.txt (8)
+    1
+    2
+    3
+     43.367
+     28.317
+     28.317
+    end net.txt (8)
+
+
+    net.txt (9)
+    1
+    2
+    3

@@ -1,0 +1,8 @@
+Multiplication method from previous simulation: 
+2
+Structure tile/net answer from previous simulation
+net
+Grouping answer from previous simulation
+yes
+Weighting yes/no answer from previous simulation: 
+no
