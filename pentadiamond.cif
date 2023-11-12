@@ -1,0 +1,257 @@
+#------------------------------------------------------------------------------
+#$Date: 2020-07-21 04:05:40 +0300 (Tue, 21 Jul 2020) $
+#$Revision: 254417 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/1/55/86/1558625.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1558625
+loop_
+_publ_author_name
+'Fujii, Y.'
+'Maruyama, M.'
+'Cuong, N.T.'
+'Okada, S.'
+_publ_section_title
+;
+ Pentadiamond: A hard carbon allotrope of a pentagonal network of sp2 and
+ sp3 C atoms
+;
+_journal_name_full               'Physical Review Letters'
+_journal_page_first              016001
+_journal_page_last               016001
+_journal_paper_doi               10.1103/PhysRevLett.125.016001
+_journal_volume                  125
+_journal_year                    2020
+_chemical_formula_sum            C
+_chemical_name_common            pentadiamond
+_chemical_name_mineral           pentadiamond
+_space_group_IT_number           225
+_space_group_name_Hall           '-F 4 2 3'
+_space_group_name_H-M_alt        'F m -3 m'
+_cell_angle_alpha                90.000000
+_cell_angle_beta                 90.000000
+_cell_angle_gamma                90.000000
+_cell_formula_units_Z            88
+_cell_length_a                   9.195000
+_cell_length_b                   9.195000
+_cell_length_c                   9.195000
+_cell_volume                     777.419
+_diffrn_ambient_pressure         100
+_diffrn_ambient_temperature      298
+_cod_data_source_file            pentadiamond.cif
+_cod_data_source_block           pentadiamond
+_cod_original_cell_volume        777.419012
+_cod_database_code               1558625
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,-z
+3 -x,-y,z
+4 x,y,-z
+5 -x,y,-z
+6 x,-y,z
+7 x,-y,-z
+8 -x,y,z
+9 z,x,y
+10 -z,-x,-y
+11 z,-x,-y
+12 -z,x,y
+13 -z,-x,y
+14 z,x,-y
+15 -z,x,-y
+16 z,-x,y
+17 y,z,x
+18 -y,-z,-x
+19 -y,z,-x
+20 y,-z,x
+21 y,-z,-x
+22 -y,z,x
+23 -y,-z,x
+24 y,z,-x
+25 y,x,-z
+26 -y,-x,z
+27 -y,-x,-z
+28 y,x,z
+29 y,-x,z
+30 -y,x,-z
+31 -y,x,z
+32 y,-x,-z
+33 x,z,-y
+34 -x,-z,y
+35 -x,z,y
+36 x,-z,-y
+37 -x,-z,-y
+38 x,z,y
+39 x,-z,y
+40 -x,z,-y
+41 z,y,-x
+42 -z,-y,x
+43 z,-y,x
+44 -z,y,-x
+45 -z,y,x
+46 z,-y,-x
+47 -z,-y,-x
+48 z,y,x
+49 x,y+1/2,z+1/2
+50 -x,-y+1/2,-z+1/2
+51 -x,-y+1/2,z+1/2
+52 x,y+1/2,-z+1/2
+53 -x,y+1/2,-z+1/2
+54 x,-y+1/2,z+1/2
+55 x,-y+1/2,-z+1/2
+56 -x,y+1/2,z+1/2
+57 z,x+1/2,y+1/2
+58 -z,-x+1/2,-y+1/2
+59 z,-x+1/2,-y+1/2
+60 -z,x+1/2,y+1/2
+61 -z,-x+1/2,y+1/2
+62 z,x+1/2,-y+1/2
+63 -z,x+1/2,-y+1/2
+64 z,-x+1/2,y+1/2
+65 y,z+1/2,x+1/2
+66 -y,-z+1/2,-x+1/2
+67 -y,z+1/2,-x+1/2
+68 y,-z+1/2,x+1/2
+69 y,-z+1/2,-x+1/2
+70 -y,z+1/2,x+1/2
+71 -y,-z+1/2,x+1/2
+72 y,z+1/2,-x+1/2
+73 y,x+1/2,-z+1/2
+74 -y,-x+1/2,z+1/2
+75 -y,-x+1/2,-z+1/2
+76 y,x+1/2,z+1/2
+77 y,-x+1/2,z+1/2
+78 -y,x+1/2,-z+1/2
+79 -y,x+1/2,z+1/2
+80 y,-x+1/2,-z+1/2
+81 x,z+1/2,-y+1/2
+82 -x,-z+1/2,y+1/2
+83 -x,z+1/2,y+1/2
+84 x,-z+1/2,-y+1/2
+85 -x,-z+1/2,-y+1/2
+86 x,z+1/2,y+1/2
+87 x,-z+1/2,y+1/2
+88 -x,z+1/2,-y+1/2
+89 z,y+1/2,-x+1/2
+90 -z,-y+1/2,x+1/2
+91 z,-y+1/2,x+1/2
+92 -z,y+1/2,-x+1/2
+93 -z,y+1/2,x+1/2
+94 z,-y+1/2,-x+1/2
+95 -z,-y+1/2,-x+1/2
+96 z,y+1/2,x+1/2
+97 x+1/2,y,z+1/2
+98 -x+1/2,-y,-z+1/2
+99 -x+1/2,-y,z+1/2
+100 x+1/2,y,-z+1/2
+101 -x+1/2,y,-z+1/2
+102 x+1/2,-y,z+1/2
+103 x+1/2,-y,-z+1/2
+104 -x+1/2,y,z+1/2
+105 z+1/2,x,y+1/2
+106 -z+1/2,-x,-y+1/2
+107 z+1/2,-x,-y+1/2
+108 -z+1/2,x,y+1/2
+109 -z+1/2,-x,y+1/2
+110 z+1/2,x,-y+1/2
+111 -z+1/2,x,-y+1/2
+112 z+1/2,-x,y+1/2
+113 y+1/2,z,x+1/2
+114 -y+1/2,-z,-x+1/2
+115 -y+1/2,z,-x+1/2
+116 y+1/2,-z,x+1/2
+117 y+1/2,-z,-x+1/2
+118 -y+1/2,z,x+1/2
+119 -y+1/2,-z,x+1/2
+120 y+1/2,z,-x+1/2
+121 y+1/2,x,-z+1/2
+122 -y+1/2,-x,z+1/2
+123 -y+1/2,-x,-z+1/2
+124 y+1/2,x,z+1/2
+125 y+1/2,-x,z+1/2
+126 -y+1/2,x,-z+1/2
+127 -y+1/2,x,z+1/2
+128 y+1/2,-x,-z+1/2
+129 x+1/2,z,-y+1/2
+130 -x+1/2,-z,y+1/2
+131 -x+1/2,z,y+1/2
+132 x+1/2,-z,-y+1/2
+133 -x+1/2,-z,-y+1/2
+134 x+1/2,z,y+1/2
+135 x+1/2,-z,y+1/2
+136 -x+1/2,z,-y+1/2
+137 z+1/2,y,-x+1/2
+138 -z+1/2,-y,x+1/2
+139 z+1/2,-y,x+1/2
+140 -z+1/2,y,-x+1/2
+141 -z+1/2,y,x+1/2
+142 z+1/2,-y,-x+1/2
+143 -z+1/2,-y,-x+1/2
+144 z+1/2,y,x+1/2
+145 x+1/2,y+1/2,z
+146 -x+1/2,-y+1/2,-z
+147 -x+1/2,-y+1/2,z
+148 x+1/2,y+1/2,-z
+149 -x+1/2,y+1/2,-z
+150 x+1/2,-y+1/2,z
+151 x+1/2,-y+1/2,-z
+152 -x+1/2,y+1/2,z
+153 z+1/2,x+1/2,y
+154 -z+1/2,-x+1/2,-y
+155 z+1/2,-x+1/2,-y
+156 -z+1/2,x+1/2,y
+157 -z+1/2,-x+1/2,y
+158 z+1/2,x+1/2,-y
+159 -z+1/2,x+1/2,-y
+160 z+1/2,-x+1/2,y
+161 y+1/2,z+1/2,x
+162 -y+1/2,-z+1/2,-x
+163 -y+1/2,z+1/2,-x
+164 y+1/2,-z+1/2,x
+165 y+1/2,-z+1/2,-x
+166 -y+1/2,z+1/2,x
+167 -y+1/2,-z+1/2,x
+168 y+1/2,z+1/2,-x
+169 y+1/2,x+1/2,-z
+170 -y+1/2,-x+1/2,z
+171 -y+1/2,-x+1/2,-z
+172 y+1/2,x+1/2,z
+173 y+1/2,-x+1/2,z
+174 -y+1/2,x+1/2,-z
+175 -y+1/2,x+1/2,z
+176 y+1/2,-x+1/2,-z
+177 x+1/2,z+1/2,-y
+178 -x+1/2,-z+1/2,y
+179 -x+1/2,z+1/2,y
+180 x+1/2,-z+1/2,-y
+181 -x+1/2,-z+1/2,-y
+182 x+1/2,z+1/2,y
+183 x+1/2,-z+1/2,y
+184 -x+1/2,z+1/2,-y
+185 z+1/2,y+1/2,-x
+186 -z+1/2,-y+1/2,x
+187 z+1/2,-y+1/2,x
+188 -z+1/2,y+1/2,-x
+189 -z+1/2,y+1/2,x
+190 z+1/2,-y+1/2,-x
+191 -z+1/2,-y+1/2,-x
+192 z+1/2,y+1/2,x
+loop_
+_atom_site_label
+_atom_site_occupancy
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_adp_type
+_atom_site_B_iso_or_equiv
+_atom_site_type_symbol
+C1 1.0 0.250000 0.250000 0.250000 Biso 1.000000 C
+C2 1.0 0.152000 0.152000 0.152000 Biso 1.000000 C
+C3 1.0 0.198000 0.198000 0.000000 Biso 1.000000 C
